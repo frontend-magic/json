@@ -1,0 +1,19 @@
+{
+    "clients": [
+        {
+            "custCode": "fgy",
+            "custName": "Fehérgyarmati Önkormányzat",
+            "custContactPerson": "Nagy Terézia"
+        },
+        {
+            "custCode": "flsd",
+            "custName": "Fülesdi Önkormányzat",
+            "custContactPerson": "Kiss Béla"
+        },
+        {
+            "custCode": "nyrbtr",
+            "custName": "Nyírbátori Önkormányzat",
+            "custContactPerson": "Kovács János"
+        }
+    ]
+}
